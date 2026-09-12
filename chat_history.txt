@@ -1,0 +1,38 @@
+[10:48:41] You: what is ai
+[10:48:41] Bot: Generative AI creates new content such as text, images, music, and code.
+
+Confidence: 74.01%
+
+[10:53:35] You: what is AI
+[10:53:35] Bot: Generative AI creates new content such as text, images, and music.
+
+[10:53:48] You: what is a machine learning
+[10:53:48] Bot: Machine Learning is a branch of AI that learns from data.
+
+[10:54:01] You: what is a tensorflow
+[10:54:01] Bot: TensorFlow is an open-source machine learning framework.
+
+[10:54:17] You: what is machine learning
+[10:54:17] Bot: Machine Learning is a branch of AI that learns from data.
+
+[10:54:32] You: give me the
+[10:54:32] Bot: Sorry, I could not find a matching answer.
+
+[10:55:34] You: what is ai
+[10:55:34] Bot: Generative AI creates new content such as text, images, and music.
+
+[10:56:29] You: what is NLP
+[10:56:29] Bot: NLP stands for Natural Language Processing.
+
+[10:56:43] You: what is chat GPT
+[10:56:43] Bot: NLP stands for Natural Language Processing.
+
+[14:09:02] You: what is AI
+[14:09:02] Bot: Generative AI creates new content such as text, images, and music.
+
+[14:09:28] You: what is python
+[14:09:28] Bot: Python is a popular programming language used in AI and Machine Learning.
+
+[14:10:05] You: meri mummy Mujhe Roj Marti
+[14:10:05] Bot: Sorry, I could not find a matching answer.
+
